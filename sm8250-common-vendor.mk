@@ -221,15 +221,6 @@ PRODUCT_PACKAGES += \
     libadm \
     libadpcmdec \
     libaudcal \
-    libaudioparsers \
-    libbatterylistener \
-    libcomprcapture \
-    libexthwplugin \
-    libhdmiedid \
-    libhdmipassthru \
-    libhfp \
-    libsndmonitor \
-    libspkrprot \
     libbluetooth_audio_session_qti \
     libbluetooth_audio_session_qti_2_1 \
     libcapiv2svacnn \
@@ -265,6 +256,7 @@ PRODUCT_PACKAGES += \
     libqtigef \
     libsmwrapper \
     libssrec \
+    libstagefrightdolby \
     libwfdcodecv4l2_proprietary \
     libwfdcommonutils_proprietary \
     libwfdconfigutils_proprietary \
